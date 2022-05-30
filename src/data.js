@@ -11,7 +11,7 @@ export default [
         classNameForDropdown: "btn btn-dark",
         entries: [
             {
-                title: "Rise to Nobility",
+                title: "Rise to Nobilities",
                 website: "https://goblingames.com.mk/product/rise-to-nobility-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d1%81%d0%ba%d0%b0-%d0%b8%d0%b3%d1%80%d0%b0/",
             },
             {
